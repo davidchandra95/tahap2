@@ -1,4 +1,4 @@
-module github.com/davidchandra95/tahap2
+module tahap2
 
 go 1.23.4
 
